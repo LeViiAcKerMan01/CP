@@ -1,13 +1,13 @@
-#include<bits/stdc++.h>
+#include<iostream>
 using namespace std;
 int main()
 {
-    #ifndef ONLINE_JUDGE
+   /* #ifndef ONLINE_JUDGE
 	// for getting input from input.txt
 	freopen("input.txt", "r", stdin);
 	// for writing output to output.txt
 	freopen("output.txt", "w", stdout);
-    #endif
+    #endif */
     int n;
     int a[1000];
     int i;
