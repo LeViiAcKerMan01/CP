@@ -15,3 +15,4 @@ int main()
     }
     return 0;
 }
+//taking input inside vectors and then printing them in a reverse fashion!
