@@ -1,1 +1,4 @@
-uhsnayirP
+Enter no.:Number entered is :4 5 1024
+Enter no.:Number entered is :7 6 117649
+Enter no.:Number entered is :9 8 43046721
+Enter no.:Number entered is :6 7 279936
